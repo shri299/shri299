@@ -1,8 +1,8 @@
 ### Hello, I am Srishti 👋
 
+- 🔭 I’m a software engineer with 3+ years of experience.
+- 💬 Skilled in **Java**, **Spring Boot**, **Kafka**, **Elasticsearch**, **MySQL**, and **Redis**.
+- 📫 How to reach me: **ssrishti508@gmail.com**
+- 👀 Profile views:![Profile Views](https://komarev.com/ghpvc/?username=shri299&color=blue)
 
-- 🔭 I’m a 2+ year experienced software Engineer, currently working in Naukri.com(InfoEdge).
-- 💬 I am skilled in Java, SpringBoot, Elasticsearch, kafka, MySql, JavaScript, expressJS, ReactJS, Tailwind CSS, and HTML.
-- 📫 How to reach me: ssrishti508@gmail.com
-
-<img src = "https://github-readme-stats.vercel.app/api?username=shri299&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=shri299&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
